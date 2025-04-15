@@ -4,7 +4,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
 ## 디자인 패턴의 종류
 - 생성 패턴 (Creational Patterns)
   - [싱글톤 패턴 (Singleton Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/singleton.js)
-  - 팩토리 메소드 패턴 (Factory Method Pattern)
+  - [팩토리 메소드 패턴 (Factory Method Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/factory-method.js)
   - 프로토타입 패턴 (Prototype Pattern)
   - 빌더 패턴 (Builder Pattern)
   - 추상 팩토리 패턴 (Abstract Factory Pattern)
