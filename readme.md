@@ -7,7 +7,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - [팩토리 메소드 패턴 (Factory Method Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/factory-method.js)
   - [프로토타입 패턴 (Prototype Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/prototype.js)
   - [빌더 패턴 (Builder Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/builder.js)
-  - 추상 팩토리 패턴 (Abstract Factory Pattern)
+  - [추상 팩토리 패턴 (Abstract Factory Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/creational/abstract-factory.js)
 - 구조 패턴 (Structural Patterns)
   - 어댑터 패턴 (Adapter Pattern)
   - 브릿지 패턴 (Bridge Pattern)
