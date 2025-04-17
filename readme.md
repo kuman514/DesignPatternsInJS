@@ -23,7 +23,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - 이터레이터 패턴 (Iterator Pattern)
   - 중재자 패턴 (Mediator Pattern)
   - 상태 패턴 (State Pattern)
-  - 전략 패턴 (Strategy Pattern)
+  - [전략 패턴 (Strategy Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/strategy.js)
   - 템플릿 메소드 패턴 (Template Method Pattern)
   - 방문자 패턴 (Visitor Pattern)
   - 메멘토 패턴 (Memento Pattern)
