@@ -12,7 +12,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - 어댑터 패턴 (Adapter Pattern)
   - 브릿지 패턴 (Bridge Pattern)
   - 컴포지트 패턴 (Composite Pattern)
-  - 데코레이터 패턴 (Decorator Pattern)
+  - [데코레이터 패턴 (Decorator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/decorator.js)
   - [파사드 패턴 (Facade Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/facade.js)
   - 플라이웨이트 패턴 (Flyweight Pattern)
   - 프록시 패턴 (Proxy Pattern)
