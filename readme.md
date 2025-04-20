@@ -17,7 +17,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - 플라이웨이트 패턴 (Flyweight Pattern)
   - 프록시 패턴 (Proxy Pattern)
 - 행동 패턴 (Behavioral Patterns)
-  - 옵저버 패턴 (Observer Pattern)
+  - [옵저버 패턴 (Observer Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/observer.js)
   - 책임 연쇄 패턴 (Chain Of Responsibility Pattern)
   - 인터프리터 패턴 (Interpreter Pattern)
   - 이터레이터 패턴 (Iterator Pattern)
