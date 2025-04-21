@@ -20,7 +20,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - [옵저버 패턴 (Observer Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/observer.js)
   - 책임 연쇄 패턴 (Chain Of Responsibility Pattern)
   - 인터프리터 패턴 (Interpreter Pattern)
-  - 이터레이터 패턴 (Iterator Pattern)
+  - [이터레이터 패턴 (Iterator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/iterator.js)
   - 중재자 패턴 (Mediator Pattern)
   - 상태 패턴 (State Pattern)
   - [전략 패턴 (Strategy Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/strategy.js)
