@@ -14,7 +14,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - 컴포지트 패턴 (Composite Pattern)
   - [데코레이터 패턴 (Decorator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/decorator.js)
   - [파사드 패턴 (Facade Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/facade.js)
-  - 플라이웨이트 패턴 (Flyweight Pattern)
+  - [플라이웨이트 패턴 (Flyweight Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/flyweight.js)
   - [프록시 패턴 (Proxy Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/proxy.js)
 - 행동 패턴 (Behavioral Patterns)
   - [옵저버 패턴 (Observer Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/observer.js)
