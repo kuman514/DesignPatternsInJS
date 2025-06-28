@@ -11,7 +11,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
 - 구조 패턴 (Structural Patterns)
   - [어댑터 패턴 (Adapter Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/adapter.js)
   - [브릿지 패턴 (Bridge Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/bridge.js)
-  - 컴포지트 패턴 (Composite Pattern)
+  - [컴포지트 패턴 (Composite Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/composite.js)
   - [데코레이터 패턴 (Decorator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/decorator.js)
   - [파사드 패턴 (Facade Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/facade.js)
   - [플라이웨이트 패턴 (Flyweight Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/structural/flyweight.js)
