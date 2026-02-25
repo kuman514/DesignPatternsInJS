@@ -26,4 +26,4 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - [전략 패턴 (Strategy Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/strategy.js)
   - [템플릿 메소드 패턴 (Template Method Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/template-method.js)
   - 방문자 패턴 (Visitor Pattern)
-  - 메멘토 패턴 (Memento Pattern)
+  - [메멘토 패턴 (Memento Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/memento.js)
