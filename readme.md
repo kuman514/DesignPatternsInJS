@@ -22,7 +22,7 @@ CS 지식 중 디자인 패턴을 따로 자세히 공부하기 위해 만들어
   - [인터프리터 패턴 (Interpreter Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/interpreter.js)
   - [이터레이터 패턴 (Iterator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/iterator.js)
   - [중재자 패턴 (Mediator Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/mediator.js)
-  - 상태 패턴 (State Pattern)
+  - [상태 패턴 (State Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/state.js)
   - [전략 패턴 (Strategy Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/strategy.js)
   - [템플릿 메소드 패턴 (Template Method Pattern)](https://github.com/kuman514/DesignPatternsInJS/blob/main/behavioral/template-method.js)
   - 방문자 패턴 (Visitor Pattern)
